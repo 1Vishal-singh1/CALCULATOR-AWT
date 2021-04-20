@@ -1,2 +1,2 @@
 # CALCULATOR-AWT
-a basic calculator which implements stack and AWT to perform calculations.
+A basic calculator which implements stack and AWT to perform calculations.
